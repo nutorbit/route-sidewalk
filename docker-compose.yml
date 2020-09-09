@@ -1,0 +1,11 @@
+version: "3.8"
+services: 
+  selenium:
+    image: selenium/standalone-chrome:4.0.0-alpha-6-20200721
+    volumes:
+      - /dev/shm:/dev/shm
+      - type: bind
+        source: ./data
+        target: /usr/src/app/data
+    ports: 
+      - "4444:4444"
