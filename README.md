@@ -30,18 +30,18 @@ $ python -m route_sidewalk.scripts.route --lat1 18.31628 --lng1 99.39592 --lat2 
 
 * target
 
-<img src='./image/demo-1.png' width=300px>
+<img src='./image/demo-1.png' width=600px>
 
 * path
 
-<img src='./image/demo-2.png' width=300px>
+<img src='./image/demo-2.png' width=600px>
 
 * cross-road
 
-<img src='./image/demo-3.png' width=300px>
-<img src='./image/demo-4.png' width=300px>
-<img src='./image/demo-5.png' width=300px>
-<img src='./image/demo-6.png' width=300px>
+<img src='./image/demo-3.png' width=600px>
+<img src='./image/demo-4.png' width=600px>
+<img src='./image/demo-5.png' width=600px>
+<img src='./image/demo-6.png' width=600px>
 
 the number of cross-road is 4.
 
