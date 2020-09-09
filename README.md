@@ -26,7 +26,27 @@ $ docker-compose up
 $ python -m route_sidewalk.scripts.route --lat1 18.31628 --lng1 99.39592 --lat2 18.3154363 --lng2 99.3968025
 ``` 
 
+## Example result
+
+* target
+
+<img src='./image/demo-1.png' width=300px>
+
+* path
+
+<img src='./image/demo-2.png' width=300px>
+
+* cross-road
+
+<img src='./image/demo-3.png' width=300px>
+<img src='./image/demo-4.png' width=300px>
+<img src='./image/demo-5.png' width=300px>
+<img src='./image/demo-6.png' width=300px>
+
+the number of cross-road is 4.
+
 ## TODO
 
-* [ ] Add some result to README
+* [x] Add some result to README
+* [ ] Smooth the path
 * [ ] Support more color road
